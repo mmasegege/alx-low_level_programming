@@ -1,4 +1,4 @@
-#include "main.h"
+1#include "main.h"
 
 int prime_number(int n, int i);
 /**
